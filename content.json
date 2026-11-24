@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "heroTitle": "Firman yang hidup, dekat dengan kehidupanmu.",
+    "heroLead": "Kami menghadirkan podcast, video belajar Alkitab, ringkasan Sekolah Sabat, dan materi pelayanan yang relevan untuk generasi hari ini, dengan kasih, kejujuran, dan pengharapan akan kedatangan Yesus.",
+    "heroImage": "images/hero.jpg",
+    "aboutTitle": "Pendeta muda, kreator konten, dan sahabat perjalanan iman.",
+    "aboutText": "pstgrifin lahir dari kerinduan untuk membawa Alkitab keluar dari ruang gereja dan masuk ke layar, telinga, dan percakapan sehari-hari anak muda. Kami percaya Firman harus dipelajari dengan jujur, dijelaskan dengan sederhana, dan dihidupi dengan sungguh-sungguh.\n\nBerpegang pada iman Kristen Advent: Sabat sebagai hari perjumpaan dengan Allah, penantian kedatangan Yesus kedua kali, dan kasih yang mendorong pelayanan kepada sesama.",
+    "aboutImage": "images/about.jpg",
+    "email": "godsavemeministry@gmail.com",
+    "drive": "https://drive.google.com/drive/folders/1OnD5KYR8NjhSKys6nZLdA8PoR2nW0ldj?usp=drive_link",
+    "youtube": "https://www.youtube.com/@grifinsakul",
+    "instagram": "https://www.instagram.com/pstgrifin/",
+    "tiktok": "https://www.tiktok.com/@pst.grifins",
+    "footer": "Podcast, video, dan materi Alkitab untuk generasi yang haus akan kebenaran dan pengharapan. Dengan iman Kristen Advent, kami menanti Yesus."
+  },
+  "konten": [
+    {"emoji": "🎙️", "title": "Podcast", "desc": "Obrolan Alkitab santai, tanya jawab, dan kisah iman dalam format audio.", "link": "https://www.youtube.com/@grifinsakul"},
+    {"emoji": "📺", "title": "Video Pelajaran Alkitab", "desc": "Pembahasan kitab per kitab dengan visual menarik dan mudah diikuti.", "link": "https://www.youtube.com/@grifinsakul"},
+    {"emoji": "🕊️", "title": "Ringkasan Sekolah Sabat", "desc": "Ringkasan pelajaran mingguan dengan poin utama, ayat kunci, dan refleksi.", "link": "https://www.youtube.com/@grifinsakul"},
+    {"emoji": "📑", "title": "Materi PPT & PDF", "desc": "Slide presentasi dan handout siap pakai untuk kelas dan kelompok kecil.", "link": "https://drive.google.com/drive/folders/1OnD5KYR8NjhSKys6nZLdA8PoR2nW0ldj?usp=drive_link"}
+  ],
+  "pelayanan": [
+    {"emoji": "🎤", "title": "Khotbah Sabat", "desc": "Pemberitaan Firman setiap hari Sabat dengan pesan yang membumi dan berpusat pada Kristus.", "image": ""},
+    {"emoji": "🏠", "title": "Melawat Anggota Jemaat", "desc": "Kunjungan ke rumah jemaat untuk mendoakan, mendengarkan, dan menguatkan.", "image": ""},
+    {"emoji": "📖", "title": "Mengajar Alkitab", "desc": "Kelas Alkitab untuk remaja dan dewasa muda, tatap muka maupun daring.", "image": ""}
+  ],
+  "rekreasi": [
+    {"title": "Trip Bareng Jemaat", "caption": "", "image": ""},
+    {"title": "Pantai & Matahari", "caption": "", "image": ""},
+    {"title": "Gunung Bareng", "caption": "", "image": ""},
+    {"title": "Bakar-bakar Bareng", "caption": "", "image": ""},
+    {"title": "Persekutuan Alam Terbuka", "caption": "", "image": ""},
+    {"title": "Kenangan Bersama", "caption": "", "image": ""}
+  ],
+  "jadwal": [
+    {"title": "Sekolah Sabat", "items": "Pelajaran mingguan\nRingkasan pelajaran\nDiskusi kelompok"},
+    {"title": "Ibadah & Khotbah", "items": "Khotbah Sabat\nPersekutuan jemaat"},
+    {"title": "Pelayanan", "items": "Melawat anggota jemaat\nKelas Alkitab\nTrip bareng jemaat"}
+  ],
+  "materi": [
+    {"type": "PPT", "title": "Slide Sekolah Sabat", "desc": "Pelajaran mingguan", "link": "https://drive.google.com/drive/folders/1OnD5KYR8NjhSKys6nZLdA8PoR2nW0ldj?usp=drive_link"},
+    {"type": "PDF", "title": "Handout Pelajaran Alkitab", "desc": "Lembar kerja & pertanyaan diskusi", "link": "https://drive.google.com/drive/folders/1OnD5KYR8NjhSKys6nZLdA8PoR2nW0ldj?usp=drive_link"},
+    {"type": "PDF", "title": "Panduan Kelompok Kecil", "desc": "Struktur pertemuan", "link": "https://drive.google.com/drive/folders/1OnD5KYR8NjhSKys6nZLdA8PoR2nW0ldj?usp=drive_link"},
+    {"type": "PPT", "title": "Presentasi Khotbah Sabat", "desc": "Template khotbah & ilustrasi", "link": "https://drive.google.com/drive/folders/1OnD5KYR8NjhSKys6nZLdA8PoR2nW0ldj?usp=drive_link"}
+  ]
+}
